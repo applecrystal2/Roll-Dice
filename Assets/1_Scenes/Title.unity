@@ -1070,7 +1070,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 1.5795593}
+  m_AnchoredPosition: {x: 0, y: 1.5795898}
   m_SizeDelta: {x: -519.78357, y: -154.48108}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &768160595
@@ -1351,7 +1351,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: Roll the Dice
+  m_Text: the die is Quest
 --- !u!222 &954924224
 CanvasRenderer:
   m_ObjectHideFlags: 0

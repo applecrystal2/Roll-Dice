@@ -2655,7 +2655,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -5804767965583246865, guid: b1e90a4cefc1f2a409ac727d50028c54, type: 3}
+  m_Sprite: {fileID: -4802492265496317460, guid: 3316aabd5dd7e2743ad1214e35350560, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2971,6 +2971,7 @@ MonoBehaviour:
   dieParticlePrefab: {fileID: 829987581}
   hitEffectPrefab: {fileID: 1729134304}
   hitEffectPoint: {fileID: 1322197142}
+  animator: {fileID: 0}
 --- !u!1 &728335514
 GameObject:
   m_ObjectHideFlags: 0
@@ -10416,6 +10417,7 @@ MonoBehaviour:
   dieParticlePrefab: {fileID: 829987581}
   hitEffectPrefab: {fileID: 1729134304}
   hitEffectPoint: {fileID: 1577811208}
+  animator: {fileID: 0}
 --- !u!1 &1375230629
 GameObject:
   m_ObjectHideFlags: 0
@@ -10504,7 +10506,7 @@ Transform:
   m_GameObject: {fileID: 1375230629}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -1.3445435, y: 1.6589994, z: -10}
+  m_LocalPosition: {x: -1.3403997, y: 1.6589994, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
